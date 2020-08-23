@@ -1,0 +1,15 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-item{
+    
+    padding: 40px 60px;
+    height: 600px;
+}
+.buy{
+    background-color: black;
+    color:#fff;
+
+}
+
